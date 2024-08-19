@@ -1,4 +1,4 @@
-FROM beestation/byond:latest
+FROM tgstation/byond:latest
 
 RUN apt-get update \
     && apt-get upgrade -y \
